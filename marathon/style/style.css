@@ -210,7 +210,7 @@ footer {
 
 /* Active */
 
-a:hover {
+.main_menu span a:hover {
   color: rgba(250, 74, 12, 1);
 }
 button:hover {
